@@ -3,5 +3,6 @@
 An application showing players scores
 
 ## Author
-Andrew mead
+Andrew mead,
+
 Marwa bekrar
