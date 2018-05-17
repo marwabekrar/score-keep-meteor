@@ -18,7 +18,7 @@ render (){
     return (
       <div> 
           
-       <TitleBar title = {this.props.title} Subtitle='Created by Marwa'/>
+       <TitleBar title = {this.props.title} Subtitle='Created by Marwa bekrar'/>
       <div className = 'wrapper'> 
       
        <PlayerList players ={this.props.players}/>   
